@@ -69,8 +69,8 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 
 ### Service & Customer Experience
 - Review Scores & Delivery Time:
-+ Orders with faster shipping (<30 days) received significantly higher review scores.
-+ Delayed deliveries correlate with lower customer satisfaction.
+  - Orders with faster shipping (<30 days) received significantly higher review scores.
+  - Delayed deliveries correlate with lower customer satisfaction.
 
 ## 2. Recommendations to Maximize GMV:
 ### Boost Sales in High-GMV Categories
