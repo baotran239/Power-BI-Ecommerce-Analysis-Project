@@ -25,6 +25,7 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 | **Gains** <br> What are the opportunities and benefits? | Key insights, unmet needs, straight-to-the-point strategies, data-driven solutions. |
 
 ## 3. Issues trees
+<img width="787" alt="Image" src="https://github.com/user-attachments/assets/a1d43f31-b394-4f17-83f2-8ce1032f7171" />
 
 ## 4. Northstar metrics
 | **Question** | **Answer** |
@@ -32,4 +33,30 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 | **What VALUE you want to measure?** | Sales, Average deal size, Orders, Repeated customers |
 | **WHEN the value DELIVERY SUCCESS?** | When these two metrics reach its maximum value. |
 | **WHY do you choose this metric?** | - **Sales revenue** shows the total monetary value generated, reflecting profitability and financial health. <br> - **Average deal size** provides insights into which products are driving revenue growth. Companies can use this information to adjust their product offerings, pricing strategies, and sales tactics to focus on higher-value opportunities. <br> - **Order** indicates transaction volume, providing insights into customer demand, purchase frequency, and conversion rates. <br> - **Repeated customers** provides insights into customer loyalty, satisfaction, and the effectiveness of the company's products or services. By monitoring and improving the rate, companies can enhance customer satisfaction, increase revenue, and strengthen their competitive position in the market, which drives long-term business growth. |
+
+## 5. Define point of view
+| **DIMENSION GROUP** | **Group 1** | **Group 2** | **Group 3** |
+|--------------------|------------|------------|------------|
+| **Group Name**    | Time       | Product    | Region     |
+
+| **View** | **Description** | **Why** |
+|------------------|---------------|---------|
+| **View 1: Sales Analysis (sales + average deal size)** | Total sales, sales by time period, sales by product, sales by region | To see sales performance over the periods, which product has the highest/smallest sales, which region contributes the most/least to sales, average deal size of top products |
+| **View 2: Customer Analysis <br> (customers + orders)** | Total customers, total repeat customers, total orders, orders by time periods, orders by product, orders by region | To determine transaction volume, customer demand |
+| **View 3: Service Analysis** | Average delivery time, review score, distribution of review score | To find out the reasons/insights which affect sales |
+
+# IV. Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
 
