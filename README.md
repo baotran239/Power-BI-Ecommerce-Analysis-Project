@@ -56,21 +56,20 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 # V. Key findings and Recommendations
 ## 1. Key findings
 ### Sales Performance Analysis
-- High GMV Categories: Health & beauty, watches & gifts, and bed & bath are the top contributors.
-- Low GMV Categories: Furniture mattresses, music, and flowers have the least sales.
-- Seasonality Impact: Sales show a strong upward trend until mid-2018, followed by a decline.
-- Deal Size & Revenue: The average deal size is $165.93, with high-value categories contributing the most revenue.
+- The high GMV categories include health & beauty, watches & gifts, and bed & bath, which are the top contributors to sales.
+- Furniture mattresses, music, and flowers have the least sales.
+- Sales show a strong upward trend until mid-2018, followed by a decline.
+- The average deal size is **$165.93**, with high-value categories contributing the most revenue.
+
 
 ### Customer Behavior
-- Repeat Customer Rate is Low: Only 3.5% (3,345 customers) are repeat buyers, with 97% of customers purchasing only once.
-- Geographical Concentration: Sales are heavily concentrated in SP (41.75K orders), RJ (13K orders), and MG (12K orders).
-- Preferred Payment Methods: 73.92% of customers use credit cards, while others prefer boleto or vouchers.
-- Order Trends: Peak order volume occurred in 2018Q1, but then dropped significantly.
+- The repeat customer rate is low, with only 3.5% making more than one purchase.
+- Regarding geographical concentration, sales are significantly concentrated in **SP (41.75K orders), RJ (13K orders), and MG (12K orders)**.
+- **73.92%** of customers use credit cards.
+- The peak order volume occurred in the first quarter of 2018, followed by a significant decline.
 
 ### Service & Customer Experience
-- Review Scores & Delivery Time:
-  - Orders with faster shipping (<30 days) received significantly higher review scores.
-  - Delayed deliveries correlate with lower customer satisfaction.
+Orders with faster shipping times of less than 30 days received significantly higher review scores, while delayed deliveries were closely linked to lower customer satisfaction.
 
 ## 2. Recommendations to Maximize GMV:
 ### Boost Sales in High-GMV Categories
