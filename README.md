@@ -51,7 +51,11 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 | **View 3: Service Analysis** | Average delivery time, review score, distribution of review score | To find out the reasons/insights which affect sales |
 
 ## IV. Dashboard
+<img width="1323" alt="Image" src="https://github.com/user-attachments/assets/10f44605-7aac-41a2-83cf-a370830cc1b6" />
 
+<img width="1323" alt="Image" src="https://github.com/user-attachments/assets/651aaa86-5b0f-4932-ba9b-3cc61af91adf" />
+
+<img width="1323" alt="Image" src="https://github.com/user-attachments/assets/d0a1e9f6-7e8f-4b25-9e17-0ec4c04b2344" />
 
 ## V. Key findings and Recommendations
 ### 1. Key findings
@@ -71,7 +75,7 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 #### Service & Customer Experience
 Orders with faster shipping times of less than 30 days received significantly higher review scores, while delayed deliveries were closely linked to lower customer satisfaction.
 
-### 2. Recommendations to Maximize GMV:
+### 2. Recommendations
 #### Boost Sales in High-GMV Categories
 - Expand and promote top-selling categories like health & beauty, watches, and bed & bath.
   - Introduce bundling discounts or subscription models for these categories.
