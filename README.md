@@ -51,9 +51,7 @@ To access to the datasets, please refer to the [link](https://drive.google.com/d
 | **View 3: Service Analysis** | Average delivery time, review score, distribution of review score | To find out the reasons/insights which affect sales |
 
 ## IV. Dashboard
-<img width="1145" alt="Image" src="https://github.com/user-attachments/assets/29cf49ae-7a92-4935-a099-d6299654f51f" />
-<img width="1145" alt="Image" src="https://github.com/user-attachments/assets/31e771d7-6fb4-41c6-97da-938e54d5db8c" />
-<img width="1145" alt="Image" src="https://github.com/user-attachments/assets/c9043d8a-235e-4fa6-9b30-497355a60c26" />
+
 
 ## V. Key findings and Recommendations
 ### 1. Key findings
